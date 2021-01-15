@@ -1,2 +1,2 @@
 # TravelAgency
-Basic app simulating travel agency. Menus are in finnish.
+Simple program that simulates a travel agency. Menus are in finnish.
